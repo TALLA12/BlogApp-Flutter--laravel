@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\models",
+    "\\lib\\services",
+    "\\lib\\utils"
+  ],
+  "SelectedNode": "\\lib\\services\\post_service.dart",
+  "PreviewInSolutionExplorer": false
+}
